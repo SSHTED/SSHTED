@@ -15,19 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-백엔드 개발자 신승현입니다. 
-  
+
  
 🛠️ Stack
 
-Back :
-JAVA JPA MYSQL SPRINGBOOT 
 
-Front :
-HTML5 CSS3 JAVASCRIPT  
-
-ETC :
-AWS GIT
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSHTED&show_icons=true&theme=radical)
